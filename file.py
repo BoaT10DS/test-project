@@ -1,5 +1,5 @@
 # boucle
-for i in "hello":
+for i in "hello4":
     print(i)
 
 i=0
