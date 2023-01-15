@@ -16,7 +16,7 @@ def get_email_from_input():
     else:
         return email
 
-for i in "helloooooooo":
+for i in "hellooooooooiu":
     print(i)
 # what
 i=0
