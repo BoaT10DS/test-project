@@ -1,7 +1,5 @@
 # boucle
 
-<<<<<<< HEAD
-
 def get_name():
     return input("what is your name ?")
 
@@ -18,7 +16,7 @@ def get_email_from_input():
         print('Email is not valid.')
     else:
         return email
-=======
+
 for i in "helloooooooo":
     print(i)
 # what
@@ -26,4 +24,4 @@ i=0
 while i <10:
     print(i)
     i+=1
->>>>>>> refs/remotes/origin/branch-test
+
